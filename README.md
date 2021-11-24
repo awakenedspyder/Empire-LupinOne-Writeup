@@ -10,3 +10,4 @@ The  first  part  is  focused  on  gathering  the  network  information  for  al
 
 To locate the IP address of the Machine that will be carrying out the tests, in this case, amachine running Kali OS, the commandif configis used, as shown in the figure below:
 
+![nmap-fping](https://user-images.githubusercontent.com/58232821/143317977-ba560e38-3a9d-4007-b388-8f8003ee6d8e.png)
